@@ -1,8 +1,8 @@
 # 🏋️‍♂️ Gym Website / موقع جيم
 
 ## 📌 Live Demo
-[Click here to view the website](https://your-username.github.io/gym-website/)  
-*(Replace `your-username` with your actual GitHub username)*
+[Click here to view the website]( https://amira713.github.io/fitzone/)  
+
 
 ---
 
@@ -40,8 +40,10 @@ The implementation steps were inspired by the tutorials of **Elzero Web School**
 ---
 
 ## 📸  Screenshot
-![Gym Website desktop Screenshot](/images/desktop-screenshot.webp)
-![Gym Website mobile Screenshot](/images/mobile-design.webp)
+![Gym Website desktop Screenshot]
+<img src="/images/desktop-screenshot.webp" alt="Gym Website desktop Screenshot" width="600">
+![Gym Website mobile Screenshot]
+<img src="/images/mobile-design.webp" alt="Gym Website mobile Screenshot" width="250">
 ---
 
 ## ⚙️ Technologies Used
@@ -55,6 +57,9 @@ If you’re interested in building a similar website for your business, feel fre
 ---
 
 # 🇸🇦 النسخة العربية
+
+# 📌 العرض المباشر
+[اضغط هنا لعرض المشروع]( https://amira713.github.io/fitzone/)  
 
 ## 🔥 عن المشروع
 هذا مشروع **موقع إلكتروني عصري لجيم (صالة رياضية)** تم تطويره باستخدام **HTML و CSS فقط**.  
@@ -88,8 +93,10 @@ If you’re interested in building a similar website for your business, feel fre
 ---
 
 ## 📸 صورة للموقع
-![صورة الموقع لسطح المكتب](/images/desktop-screenshot.webp)
-![صورة الموقع  الموبايل](/images/mobile-design.webp)
+![صورة الموقع لسطح المكتب]
+<img src="/images/desktop-screenshot.webp" alt="Gym Website desktop Screenshot" width="600">
+![صورة الموقع  الموبايل]
+<img src="/images/mobile-design.webp" alt="Gym Website mobile Screenshot" width="250">
 
 ---
 
