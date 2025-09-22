@@ -702,7 +702,7 @@ header .form i {
 /* start subscribe  */
 .subscribe{
    padding: var(--section-padding, 100px) 0 ;
-   background-image: url(/images/subscribe-background.webp);
+   background-image: url(../images/subscribe-background.webp);
    background-size: cover;
    position: relative;
    color: var(--main-color)
@@ -836,7 +836,7 @@ header .form i {
 /* start footer */
 .footer{
   padding: 50px 0;
-  background-image: url(/images/footer-background.webp);
+  background-image: url(../images/footer-background.webp);
   background-size: cover;
   position: relative;
 }
@@ -956,7 +956,7 @@ header .form i {
   }
 
   .design{
-    background-image: url(/images/design-section-background-mobile.webp);
+    background-image: url(../images/design-section-background-mobile.webp);
   }
 
  .statistics .container .box{
@@ -998,7 +998,7 @@ header .form i {
 }
 @media (max-width: 992px) {
   .landing {
-    background-image: url(/images/mobile-hero-img.webp);
+    background-image: url(../images/mobile-hero-img.webp);
   }
    .design .text{
   width: 100%;
