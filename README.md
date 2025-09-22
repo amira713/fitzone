@@ -40,9 +40,11 @@ The implementation steps were inspired by the tutorials of **Elzero Web School**
 ---
 
 ## 📸  Screenshot
-![Gym Website desktop Screenshot]
+## ![Gym Website desktop Screenshot]
 <img src="/images/desktop-screenshot.webp" alt="Gym Website desktop Screenshot" width="600">
-![Gym Website mobile Screenshot]
+
+
+## ![Gym Website mobile Screenshot]
 <img src="/images/mobile-design.webp" alt="Gym Website mobile Screenshot" width="250">
 ---
 

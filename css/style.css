@@ -147,7 +147,7 @@ header .form i {
 /* start landing */
 .landing {
   background-color: rgb(24, 21, 21);
-  background-image: url(/images/hero-img.webp);
+  background-image: url(../images/hero-img.webp);
   min-height: 100vh;
   background-size: cover;
   position: relative;
@@ -258,7 +258,7 @@ header .form i {
 /* start design section */
 .design{
     padding: var(--section-padding, 100px) 0;
-    background-image: url(/images/design-section-background.webp);
+    background-image: url(../images/design-section-background.webp);
     background-size: cover;
     height: 100vh;
     position: relative;
@@ -428,7 +428,7 @@ header .form i {
 /* start  Statistics  */
 .statistics{
    padding:  20px 0;
-   background-image: url(/images/statistics-background.webp);
+   background-image: url(../images/statistics-background.webp);
    background-size: cover;
    text-align: center;
    position: relative;
@@ -580,7 +580,7 @@ header .form i {
 /* start quote */
 .quote{
     padding: var(--section-padding, 100px) 0 ;
-    background-image: url(/images/quote-background.webp);
+    background-image: url(../images/quote-background.webp);
     background-size: cover;
     position: relative;
     text-align: center;
